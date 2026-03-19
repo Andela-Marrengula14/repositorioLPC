@@ -1,0 +1,11 @@
+name = "meu_projeto_ada"
+description = "Projeto inicial para trabalho de faculdade sobre Ada"
+version = "0.1.0-dev"
+
+authors = ["Andela Marrengula"]
+maintainers = ["Andela Marrengula <example@example.com>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["meu_projeto_ada"]
